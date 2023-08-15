@@ -29,7 +29,9 @@ This tutorial outlines the Lifecycle of Network File Shares and Permissions.<br 
 <img src="https://i.imgur.com/GbN41bd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Shared directory on network server allows multiple users to access files and documents stored centrally.
+
+Permissions such as: No-access,Read-access,and write-access are applied to the files and folders. 
 </p>
 <br />
 
